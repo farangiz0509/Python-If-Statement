@@ -1,6 +1,6 @@
-harflar = input("harf kiriting:")
+harflar = input ("Bitta harf kiriting : ")
 
-if "A" <= harflar <= "Z":
+if "A"<= harflar <= "Z":
     print("katta harf")
-else:
-    print("kichik harf")
+else :
+    print("kichkina harf")

@@ -1,8 +1,8 @@
-number = int(input("enter number"))
+son = int(input("Sonni kiriting : "))
 
-if number == 0:
-    print("noll")
-if number > 0:
-    print("musbat son")
-if number < 0:
-    print("manfiy son")
+if son == 0:
+    print("Noll")
+if son > 0 :
+    print("ijobiy son")
+if son < 0 :
+    print("manfiy son ")

@@ -1,7 +1,7 @@
-number = int(input("enter number:"))
-
-if number % 2 == 0:
-    print("juft son")
-    
+num = float(input("enter the number : "))
+if num % 2 == 0  :
+    print(f"{num} soni juft")
 else:
-    print("toq son")
+    print(f"{num} soni toq ")
+if num == 0:
+    print(f"{num} soni juft ")

@@ -1,9 +1,12 @@
-number1 = int(input("enter number1:"))
-number2 = int(input("enter number2:"))
+num01 = int(input("enter the first number :"))
+num02 = int(input("enter the second nmber :"))
 
-if number1 > number2 :
-    print("birinchi son katta" , number1)
+if num01 > num02:
+    print(f"{num01} soni katta ")
+elif  num01 == num02:
+    print("bu sonlar teng")
 else:
-    print("ikkinchi son katta", number2)
-if number1 == number2 :
-    print("ikkala son teng")
+    print(f"{num02} soni katta ")
+
+
+    
