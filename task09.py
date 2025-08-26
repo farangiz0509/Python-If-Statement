@@ -5,6 +5,6 @@ c = int(input("3 tomonini kiriting"))
 if a == b == c :
     print("teng tomonli")
 if a == b or b == c or a == c:
-    print("teng yonli")
+    print("teng  yonli")
 else:
     print("turli tomonli")

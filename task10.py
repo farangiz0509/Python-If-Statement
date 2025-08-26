@@ -9,5 +9,5 @@ if rating >70 and rating < 80:
     print("c")
 if rating > 60 and rating < 70:
     print("D")
-if rating > 0 and rating < 60:
+if rating > 0 and rating < 50:
     print("E")

@@ -7,6 +7,6 @@ if month == 3 or month == 4 or month == 5:
 if month == 5 or month == 6 or month == 7:
     print("summer")
 if month == 8 or month == 9 or month == 10:
-    print("fall")
+    print("falll")
 else:
     print("wrong number")
